@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">상민봇</string>
+    <string name="edit_message">질문을 입력해주세요!</string>
+    <string name="button_send">묻기</string>
+    <string name="edit_userName">사용자의 이름을 입력해주세요!</string>
+    <string name="button_front">완료</string>
+    <string name="guideline">상민봇에게 이름, 학교, 메일 주소를 물어보세요!\n위의 세가지 키워드가 들어간 질문을 하시면 됩니다!</string>
+</resources>
